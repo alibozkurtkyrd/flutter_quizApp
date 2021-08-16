@@ -14,13 +14,7 @@
     "choices": ["twice","never","Once","times"]
     },
     
-    {"question": "How many times has England won the men’s football World Cup?",
-    
-    "answer": "Once",
-    
-    "choices": ["twice","never","Once","times"]
-    },
-    
+       
     {"question": "What is the currency of Denmark?",
     
     "answer": "Krone",
