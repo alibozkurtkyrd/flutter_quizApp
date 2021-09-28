@@ -1,0 +1,120 @@
+
+         * {
+            box-sizing: border-box;
+            }
+
+            .span_class{
+                margin-top: 20px !important;
+                
+            }
+
+            input[type=text], input[type=number],select, textarea{
+                width: 100%;
+                padding: 12px;
+                border: 1px solid #ccc;
+                border-radius: 4px;
+                resize: vertical;
+            }
+
+            
+            label {
+                padding: 12px 12px 12px 0;
+                display: inline-block;
+            }
+            .container{
+                
+                border-radius: 5px;
+                background-color: #ea924b;
+                padding: 10px;
+                margin: 40px 100px 150px;
+                width: 70%;
+                height: 90%;
+
+            }
+
+           
+            .outside{
+                background-color: #A4f37a;
+                padding: 20px;
+                border-radius: 4px;
+            }
+
+            .col-25{
+                float:left;
+                width: 25%;
+                margin-top: 5px;
+            }
+
+            .col-75{
+                float:left;
+                width: 75%;
+                margin-top: 5px;
+            }
+
+            input[type=submit] {
+                
+                background-color: #008CBA;
+                color: white;
+                padding: 12px 20px;
+                border: none;
+                border-radius: 4px;
+                cursor: pointer;
+                float: right;
+                
+            }
+
+            button {
+                
+                
+                background-color: #008CBA;
+                color: white;
+                padding: 12px 20px;
+                border: none;
+                border-radius: 4px;
+                cursor: pointer;
+                float: right;
+                    
+               
+            }
+
+            input[type=submit]:hover {
+                background-color: #45a049;
+        }
+            .row:after{
+                content: "";
+                display: table;
+                clear:both
+            }
+            .row:before{
+                content: "";
+                display: table;
+                clear:both
+            }
+            h2{
+
+               
+                font-size: 30px;
+
+            }
+
+            a{
+                float: right;
+            }
+
+            p{
+               
+                font-size: 20px;
+            }
+
+
+            .optionSmall{
+                width: 75%;
+                float: right;
+                background-color: #d98d14;
+                
+                
+            }
+
+            
+
+    
