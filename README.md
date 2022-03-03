@@ -14,4 +14,7 @@ Each stage has 7 questions and 60 seconds of time, and each question is 10 point
 It is the part where the question is created for the mobile application. It also performs operations such as updating and deleting questions in 
 the question pool. Finally, the created questions are saved in Mysql and then converted to json.
 
-A connection was established between the web and mobile application via LAMP.
+A connection was established between the web and mobile application via LAMP.<hr>
+
+
+You can review the [report](https://drive.google.com/file/d/1DUDN1FCrKZQ0pntRdJ36JdZuiUcU29dL/view?usp=sharing) for detailed information. 
