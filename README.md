@@ -17,4 +17,9 @@ the question pool. Finally, the created questions are saved in Mysql and then co
 A connection was established between the web and mobile application via LAMP.<hr>
 
 
-You can review the [report](https://drive.google.com/file/d/1DUDN1FCrKZQ0pntRdJ36JdZuiUcU29dL/view?usp=sharing) for detailed information. 
+You can review the [my report](https://drive.google.com/file/d/1DUDN1FCrKZQ0pntRdJ36JdZuiUcU29dL/view?usp=sharing) for detailed information. 
+
+
+# Technologies
+
+Visual Studio Code, Android Studio, Apache, Mysql,Php,Flutter, Dart, Json API and Lamp. 
